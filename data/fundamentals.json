@@ -1,0 +1,3122 @@
+{
+  "A": {
+    "Company": "Agilent Technologies, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "37.71B"
+  },
+  "AAL": {
+    "Company": "American Airlines Group Inc.",
+    "Sector": "Industrials",
+    "Industry": "Airlines",
+    "MarketCap": "12.00B"
+  },
+  "AAP": {
+    "Company": "Advance Auto Parts, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "MarketCap": "13.45B"
+  },
+  "AAPL": {
+    "Company": "Apple Inc.",
+    "Sector": "Technology",
+    "Industry": "Consumer Electronics",
+    "MarketCap": "2777.13B"
+  },
+  "ABBV": {
+    "Company": "AbbVie Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "275.65B"
+  },
+  "ABC": {
+    "Company": "AmerisourceBergen Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Medical Distribution",
+    "MarketCap": "34.23B"
+  },
+  "ABMD": {
+    "Company": "Abiomed, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "13.65B"
+  },
+  "ABT": {
+    "Company": "Abbott Laboratories",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "208.19B"
+  },
+  "ACN": {
+    "Company": "Accenture plc",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "211.72B"
+  },
+  "ADBE": {
+    "Company": "Adobe Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "206.40B"
+  },
+  "ADI": {
+    "Company": "Analog Devices, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "84.78B"
+  },
+  "ADM": {
+    "Company": "Archer-Daniels-Midland Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Farm Products",
+    "MarketCap": "53.49B"
+  },
+  "ADP": {
+    "Company": "Automatic Data Processing, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Staffing & Employment Services",
+    "MarketCap": "97.33B"
+  },
+  "ADSK": {
+    "Company": "Autodesk, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "43.80B"
+  },
+  "AEE": {
+    "Company": "Ameren Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "24.80B"
+  },
+  "AEP": {
+    "Company": "American Electric Power Company, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "51.40B"
+  },
+  "AES": {
+    "Company": "The AES Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "MarketCap": "16.12B"
+  },
+  "AFL": {
+    "Company": "Aflac Incorporated",
+    "Sector": "Financial",
+    "Industry": "Insurance - Life",
+    "MarketCap": "42.33B"
+  },
+  "AIG": {
+    "Company": "American International Group, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Diversified",
+    "MarketCap": "51.48B"
+  },
+  "AIZ": {
+    "Company": "Assurant, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Specialty",
+    "MarketCap": "10.84B"
+  },
+  "AJG": {
+    "Company": "Arthur J. Gallagher & Co.",
+    "Sector": "Financial",
+    "Industry": "Insurance Brokers",
+    "MarketCap": "37.66B"
+  },
+  "AKAM": {
+    "Company": "Akamai Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "19.25B"
+  },
+  "ALB": {
+    "Company": "Albemarle Corporation",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "MarketCap": "24.73B"
+  },
+  "ALGN": {
+    "Company": "Align Technology, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "32.54B"
+  },
+  "ALK": {
+    "Company": "Alaska Air Group, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Airlines",
+    "MarketCap": "7.05B"
+  },
+  "ALL": {
+    "Company": "The Allstate Corporation",
+    "Sector": "Financial",
+    "Industry": "Insurance - Property & Casualty",
+    "MarketCap": "38.76B"
+  },
+  "ALLE": {
+    "Company": "Allegion plc",
+    "Sector": "Industrials",
+    "Industry": "Security & Protection Services",
+    "MarketCap": "9.47B"
+  },
+  "AMAT": {
+    "Company": "Applied Materials, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials",
+    "MarketCap": "104.61B"
+  },
+  "AMCR": {
+    "Company": "Amcor plc",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "MarketCap": "17.50B"
+  },
+  "AMD": {
+    "Company": "Advanced Micro Devices, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "159.77B"
+  },
+  "AME": {
+    "Company": "AMETEK, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "30.00B"
+  },
+  "AMGN": {
+    "Company": "Amgen Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "134.21B"
+  },
+  "AMP": {
+    "Company": "Ameriprise Financial, Inc.",
+    "Sector": "Financial",
+    "Industry": "Asset Management",
+    "MarketCap": "32.33B"
+  },
+  "AMT": {
+    "Company": "American Tower Corporation",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "MarketCap": "116.58B"
+  },
+  "AMZN": {
+    "Company": "Amazon.com, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Internet Retail",
+    "MarketCap": "1594.19B"
+  },
+  "ANET": {
+    "Company": "Arista Networks, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "MarketCap": "40.31B"
+  },
+  "ANSS": {
+    "Company": "ANSYS, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "25.68B"
+  },
+  "ANTM": {
+    "Company": "Anthem, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "MarketCap": "122.66B"
+  },
+  "AON": {
+    "Company": "Aon plc",
+    "Sector": "Financial",
+    "Industry": "Insurance Brokers",
+    "MarketCap": "70.79B"
+  },
+  "AOS": {
+    "Company": "A. O. Smith Corporation",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "10.09B"
+  },
+  "APA": {
+    "Company": "APA Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "15.23B"
+  },
+  "APD": {
+    "Company": "Air Products and Chemicals, Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Chemicals",
+    "MarketCap": "55.22B"
+  },
+  "APH": {
+    "Company": "Amphenol Corporation",
+    "Sector": "Technology",
+    "Industry": "Electronic Components",
+    "MarketCap": "43.00B"
+  },
+  "APTV": {
+    "Company": "Aptiv PLC",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Parts",
+    "MarketCap": "29.03B"
+  },
+  "ARE": {
+    "Company": "Alexandria Real Estate Equities, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Office",
+    "MarketCap": "33.37B"
+  },
+  "ASML": {
+    "Company": "ASML Holding N.V.",
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials",
+    "MarketCap": "252.33B"
+  },
+  "ATO": {
+    "Company": "Atmos Energy Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Gas",
+    "MarketCap": "16.22B"
+  },
+  "ATVI": {
+    "Company": "Activision Blizzard, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Electronic Gaming & Multimedia",
+    "MarketCap": "61.87B"
+  },
+  "AVB": {
+    "Company": "AvalonBay Communities, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "MarketCap": "34.26B"
+  },
+  "AVGO": {
+    "Company": "Broadcom Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "247.26B"
+  },
+  "AVY": {
+    "Company": "Avery Dennison Corporation",
+    "Sector": "Industrials",
+    "Industry": "Business Equipment & Supplies",
+    "MarketCap": "14.01B"
+  },
+  "AWK": {
+    "Company": "American Water Works Company, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Water",
+    "MarketCap": "29.70B"
+  },
+  "AXP": {
+    "Company": "American Express Company",
+    "Sector": "Financial",
+    "Industry": "Credit Services",
+    "MarketCap": "138.49B"
+  },
+  "AZN": {
+    "Company": "AstraZeneca PLC",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "210.30B"
+  },
+  "AZO": {
+    "Company": "AutoZone, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "MarketCap": "43.30B"
+  },
+  "BA": {
+    "Company": "The Boeing Company",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "106.72B"
+  },
+  "BAC": {
+    "Company": "Bank of America Corporation",
+    "Sector": "Financial",
+    "Industry": "Banks - Diversified",
+    "MarketCap": "323.74B"
+  },
+  "BAX": {
+    "Company": "Baxter International Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "38.71B"
+  },
+  "BBWI": {
+    "Company": "Bath & Body Works, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "MarketCap": "12.36B"
+  },
+  "BBY": {
+    "Company": "Best Buy Co., Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "MarketCap": "21.37B"
+  },
+  "BDX": {
+    "Company": "Becton, Dickinson and Company",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "73.87B"
+  },
+  "BEN": {
+    "Company": "Franklin Resources, Inc.",
+    "Sector": "Financial",
+    "Industry": "Asset Management",
+    "MarketCap": "13.20B"
+  },
+  "BF.B": {
+    "Company": "Brown-Forman Corporation",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Wineries & Distilleries",
+    "MarketCap": "31.76B"
+  },
+  "BIDU": {
+    "Company": "Baidu, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information",
+    "MarketCap": "45.85B"
+  },
+  "BIIB": {
+    "Company": "Biogen Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "31.45B"
+  },
+  "BIO": {
+    "Company": "Bio-Rad Laboratories, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "16.85B"
+  },
+  "BK": {
+    "Company": "The Bank of New York Mellon Corporation",
+    "Sector": "Financial",
+    "Industry": "Asset Management",
+    "MarketCap": "38.12B"
+  },
+  "BKNG": {
+    "Company": "Booking Holdings Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "MarketCap": "91.25B"
+  },
+  "BKR": {
+    "Company": "Baker Hughes Company",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Equipment & Services",
+    "MarketCap": "38.33B"
+  },
+  "BLK": {
+    "Company": "BlackRock, Inc.",
+    "Sector": "Financial",
+    "Industry": "Asset Management",
+    "MarketCap": "107.53B"
+  },
+  "BLL": {
+    "Company": "Ball Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "MarketCap": "27.91B"
+  },
+  "BMY": {
+    "Company": "Bristol-Myers Squibb Company",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "161.76B"
+  },
+  "BR": {
+    "Company": "Broadridge Financial Solutions, Inc.",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "17.93B"
+  },
+  "BRK.B": {
+    "Company": "Berkshire Hathaway Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Diversified",
+    "MarketCap": "842.36B"
+  },
+  "BRO": {
+    "Company": "Brown & Brown, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance Brokers",
+    "MarketCap": "19.96B"
+  },
+  "BSX": {
+    "Company": "Boston Scientific Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "62.78B"
+  },
+  "BWA": {
+    "Company": "BorgWarner Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Parts",
+    "MarketCap": "8.91B"
+  },
+  "BXP": {
+    "Company": "Boston Properties, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Office",
+    "MarketCap": "19.43B"
+  },
+  "C": {
+    "Company": "Citigroup Inc.",
+    "Sector": "Financial",
+    "Industry": "Banks - Diversified",
+    "MarketCap": "101.60B"
+  },
+  "CAG": {
+    "Company": "Conagra Brands, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "17.00B"
+  },
+  "CAH": {
+    "Company": "Cardinal Health, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Distribution",
+    "MarketCap": "17.47B"
+  },
+  "CAT": {
+    "Company": "Caterpillar Inc.",
+    "Sector": "Industrials",
+    "Industry": "Farm & Heavy Construction Machinery",
+    "MarketCap": "118.05B"
+  },
+  "CB": {
+    "Company": "Chubb Limited",
+    "Sector": "Financial",
+    "Industry": "Insurance - Property & Casualty",
+    "MarketCap": "91.32B"
+  },
+  "CBOE": {
+    "Company": "Cboe Global Markets, Inc.",
+    "Sector": "Financial",
+    "Industry": "Financial Data & Stock Exchanges",
+    "MarketCap": "12.64B"
+  },
+  "CBRE": {
+    "Company": "CBRE Group, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "Real Estate Services",
+    "MarketCap": "28.60B"
+  },
+  "CCI": {
+    "Company": "Crown Castle International Corp.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "MarketCap": "83.02B"
+  },
+  "CCL": {
+    "Company": "Carnival Corporation & plc",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "MarketCap": "21.36B"
+  },
+  "CDAY": {
+    "Company": "Ceridian HCM Holding Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "9.30B"
+  },
+  "CDNS": {
+    "Company": "Cadence Design Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "43.60B"
+  },
+  "CDW": {
+    "Company": "CDW Corporation",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "22.92B"
+  },
+  "CE": {
+    "Company": "Celanese Corporation",
+    "Sector": "Basic Materials",
+    "Industry": "Chemicals",
+    "MarketCap": "15.91B"
+  },
+  "CERN": {
+    "Company": "Cerner Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Health Information Services",
+    "MarketCap": "27.45B"
+  },
+  "CF": {
+    "Company": "CF Industries Holdings, Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Agricultural Inputs",
+    "MarketCap": "23.14B"
+  },
+  "CFG": {
+    "Company": "Citizens Financial Group, Inc.",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "20.64B"
+  },
+  "CHD": {
+    "Company": "Church & Dwight Co., Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "MarketCap": "24.61B"
+  },
+  "CHRW": {
+    "Company": "C.H. Robinson Worldwide, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "MarketCap": "13.01B"
+  },
+  "CHTR": {
+    "Company": "Charter Communications, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "MarketCap": "93.33B"
+  },
+  "CI": {
+    "Company": "Cigna Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "MarketCap": "82.38B"
+  },
+  "CINF": {
+    "Company": "Cincinnati Financial Corporation",
+    "Sector": "Financial",
+    "Industry": "Insurance - Property & Casualty",
+    "MarketCap": "22.18B"
+  },
+  "CL": {
+    "Company": "Colgate-Palmolive Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "MarketCap": "67.30B"
+  },
+  "CLX": {
+    "Company": "The Clorox Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "MarketCap": "17.64B"
+  },
+  "CMA": {
+    "Company": "Comerica Incorporated",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "11.67B"
+  },
+  "CMCSA": {
+    "Company": "Comcast Corporation",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "MarketCap": "213.90B"
+  },
+  "CME": {
+    "Company": "CME Group Inc.",
+    "Sector": "Financial",
+    "Industry": "Financial Data & Stock Exchanges",
+    "MarketCap": "85.51B"
+  },
+  "CMG": {
+    "Company": "Chipotle Mexican Grill, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "MarketCap": "44.18B"
+  },
+  "CMI": {
+    "Company": "Cummins Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "27.76B"
+  },
+  "CMS": {
+    "Company": "CMS Energy Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "20.83B"
+  },
+  "CNC": {
+    "Company": "Centene Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "MarketCap": "49.29B"
+  },
+  "CNP": {
+    "Company": "CenterPoint Energy, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Gas",
+    "MarketCap": "20.27B"
+  },
+  "COF": {
+    "Company": "Capital One Financial Corporation",
+    "Sector": "Financial",
+    "Industry": "Credit Services",
+    "MarketCap": "56.81B"
+  },
+  "COO": {
+    "Company": "The Cooper Companies, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "19.73B"
+  },
+  "COP": {
+    "Company": "ConocoPhillips",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "132.59B"
+  },
+  "COST": {
+    "Company": "Costco Wholesale Corporation",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "MarketCap": "258.32B"
+  },
+  "CPB": {
+    "Company": "Campbell Soup Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "13.60B"
+  },
+  "CPRT": {
+    "Company": "Copart, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Business Services",
+    "MarketCap": "28.67B"
+  },
+  "CPT": {
+    "Company": "Camden Property Trust",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "MarketCap": "17.42B"
+  },
+  "CRL": {
+    "Company": "Charles River Laboratories International, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "14.34B"
+  },
+  "CRM": {
+    "Company": "salesforce.com, inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "191.31B"
+  },
+  "CRWD": {
+    "Company": "CrowdStrike Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "52.94B"
+  },
+  "CSCO": {
+    "Company": "Cisco Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Communication Equipment",
+    "MarketCap": "216.39B"
+  },
+  "CSX": {
+    "Company": "CSX Corporation",
+    "Sector": "Industrials",
+    "Industry": "Railroads",
+    "MarketCap": "75.34B"
+  },
+  "CTAS": {
+    "Company": "Cintas Corporation",
+    "Sector": "Industrials",
+    "Industry": "Specialty Business Services",
+    "MarketCap": "42.86B"
+  },
+  "CTLT": {
+    "Company": "Catalent, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - Specialty & Generic",
+    "MarketCap": "17.56B"
+  },
+  "CTRA": {
+    "Company": "Coterra Energy Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "24.71B"
+  },
+  "CTSH": {
+    "Company": "Cognizant Technology Solutions Corporation",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "45.07B"
+  },
+  "CTVA": {
+    "Company": "Corteva, Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Agricultural Inputs",
+    "MarketCap": "44.25B"
+  },
+  "CTXS": {
+    "Company": "Citrix Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "12.82B"
+  },
+  "CVS": {
+    "Company": "CVS Health Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "MarketCap": "137.51B"
+  },
+  "CVX": {
+    "Company": "Chevron Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Integrated",
+    "MarketCap": "341.83B"
+  },
+  "CZR": {
+    "Company": "Caesars Entertainment, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Resorts & Casinos",
+    "MarketCap": "14.88B"
+  },
+  "D": {
+    "Company": "Dominion Energy, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "MarketCap": "70.22B"
+  },
+  "DAL": {
+    "Company": "Delta Air Lines, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Airlines",
+    "MarketCap": "26.11B"
+  },
+  "DD": {
+    "Company": "DuPont de Nemours, Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Chemicals",
+    "MarketCap": "35.02B"
+  },
+  "DDOG": {
+    "Company": "Datadog, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "43.22B"
+  },
+  "DE": {
+    "Company": "Deere & Company",
+    "Sector": "Industrials",
+    "Industry": "Farm & Heavy Construction Machinery",
+    "MarketCap": "131.60B"
+  },
+  "DFS": {
+    "Company": "Discover Financial Services",
+    "Sector": "Financial",
+    "Industry": "Credit Services",
+    "MarketCap": "32.98B"
+  },
+  "DG": {
+    "Company": "Dollar General Corporation",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "MarketCap": "56.46B"
+  },
+  "DGX": {
+    "Company": "Quest Diagnostics Incorporated",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "16.05B"
+  },
+  "DHI": {
+    "Company": "D.R. Horton, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Residential Construction",
+    "MarketCap": "25.84B"
+  },
+  "DHR": {
+    "Company": "Danaher Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "201.71B"
+  },
+  "DIS": {
+    "Company": "The Walt Disney Company",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "MarketCap": "235.97B"
+  },
+  "DISH": {
+    "Company": "DISH Network Corporation",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "MarketCap": "16.89B"
+  },
+  "DLR": {
+    "Company": "Digital Realty Trust, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Office",
+    "MarketCap": "41.86B"
+  },
+  "DLTR": {
+    "Company": "Dollar Tree, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "MarketCap": "38.28B"
+  },
+  "DOCU": {
+    "Company": "DocuSign, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "20.12B"
+  },
+  "DOV": {
+    "Company": "Dover Corporation",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "21.56B"
+  },
+  "DOW": {
+    "Company": "Dow Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Chemicals",
+    "MarketCap": "47.49B"
+  },
+  "DPZ": {
+    "Company": "Domino's Pizza, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "MarketCap": "13.85B"
+  },
+  "DRE": {
+    "Company": "Duke Realty Corporation",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Industrial",
+    "MarketCap": "22.62B"
+  },
+  "DRI": {
+    "Company": "Darden Restaurants, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "MarketCap": "16.56B"
+  },
+  "DTE": {
+    "Company": "DTE Energy Company",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "26.47B"
+  },
+  "DUK": {
+    "Company": "Duke Energy Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "88.15B"
+  },
+  "DVA": {
+    "Company": "DaVita Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Care Facilities",
+    "MarketCap": "11.44B"
+  },
+  "DVN": {
+    "Company": "Devon Energy Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "43.01B"
+  },
+  "DXC": {
+    "Company": "DXC Technology Company",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "7.57B"
+  },
+  "DXCM": {
+    "Company": "DexCom, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "47.80B"
+  },
+  "EA": {
+    "Company": "Electronic Arts Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Electronic Gaming & Multimedia",
+    "MarketCap": "34.64B"
+  },
+  "EBAY": {
+    "Company": "eBay Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Internet Retail",
+    "MarketCap": "32.63B"
+  },
+  "ECL": {
+    "Company": "Ecolab Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "MarketCap": "51.13B"
+  },
+  "ED": {
+    "Company": "Consolidated Edison, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "34.29B"
+  },
+  "EFX": {
+    "Company": "Equifax Inc.",
+    "Sector": "Industrials",
+    "Industry": "Consulting Services",
+    "MarketCap": "26.00B"
+  },
+  "EIX": {
+    "Company": "Edison International",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "27.55B"
+  },
+  "EL": {
+    "Company": "The Estee Lauder Companies Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "MarketCap": "95.70B"
+  },
+  "EMN": {
+    "Company": "Eastman Chemical Company",
+    "Sector": "Basic Materials",
+    "Industry": "Chemicals",
+    "MarketCap": "14.09B"
+  },
+  "EMR": {
+    "Company": "Emerson Electric Co.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "56.09B"
+  },
+  "ENPH": {
+    "Company": "Enphase Energy, Inc.",
+    "Sector": "Technology",
+    "Industry": "Solar",
+    "MarketCap": "26.01B"
+  },
+  "EOG": {
+    "Company": "EOG Resources, Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "72.55B"
+  },
+  "EPAM": {
+    "Company": "EPAM Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "16.98B"
+  },
+  "EQIX": {
+    "Company": "Equinix, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "MarketCap": "68.01B"
+  },
+  "EQR": {
+    "Company": "Equity Residential",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "MarketCap": "33.66B"
+  },
+  "ES": {
+    "Company": "Eversource Energy",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "31.57B"
+  },
+  "ESS": {
+    "Company": "Essex Property Trust, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "MarketCap": "22.54B"
+  },
+  "ETN": {
+    "Company": "Eaton Corporation plc",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "56.95B"
+  },
+  "ETR": {
+    "Company": "Entergy Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "MarketCap": "25.16B"
+  },
+  "ETSY": {
+    "Company": "Etsy, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Internet Retail",
+    "MarketCap": "14.24B"
+  },
+  "EVRG": {
+    "Company": "Evergy, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "16.20B"
+  },
+  "EW": {
+    "Company": "Edwards Lifesciences Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "75.28B"
+  },
+  "EXC": {
+    "Company": "Exelon Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "MarketCap": "47.87B"
+  },
+  "EXPD": {
+    "Company": "Expeditors International of Washington, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "MarketCap": "16.31B"
+  },
+  "EXPE": {
+    "Company": "Expedia Group, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "MarketCap": "28.31B"
+  },
+  "EXR": {
+    "Company": "Extra Space Storage Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Industrial",
+    "MarketCap": "28.53B"
+  },
+  "F": {
+    "Company": "Ford Motor Company",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers",
+    "MarketCap": "63.10B"
+  },
+  "FANG": {
+    "Company": "Diamondback Energy, Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "25.18B"
+  },
+  "FAST": {
+    "Company": "Fastenal Company",
+    "Sector": "Industrials",
+    "Industry": "Industrial Distribution",
+    "MarketCap": "33.30B"
+  },
+  "FB": {
+    "Company": "Meta Platforms, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information",
+    "MarketCap": "585.23B"
+  },
+  "FBHS": {
+    "Company": "Fortune Brands Home & Security, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Furnishings, Fixtures & Appliances",
+    "MarketCap": "9.34B"
+  },
+  "FCX": {
+    "Company": "Freeport-McMoRan Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Copper",
+    "MarketCap": "74.22B"
+  },
+  "FDS": {
+    "Company": "FactSet Research Systems Inc.",
+    "Sector": "Financial",
+    "Industry": "Financial Data & Stock Exchanges",
+    "MarketCap": "16.26B"
+  },
+  "FDX": {
+    "Company": "FedEx Corporation",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "MarketCap": "52.83B"
+  },
+  "FE": {
+    "Company": "FirstEnergy Corp.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "MarketCap": "26.86B"
+  },
+  "FFIV": {
+    "Company": "F5, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "12.56B"
+  },
+  "FIS": {
+    "Company": "Fidelity National Information Services, Inc.",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "61.89B"
+  },
+  "FISV": {
+    "Company": "Fiserv, Inc.",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "64.42B"
+  },
+  "FITB": {
+    "Company": "Fifth Third Bancorp",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "27.13B"
+  },
+  "FLT": {
+    "Company": "FLEETCOR Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "19.79B"
+  },
+  "FMC": {
+    "Company": "FMC Corporation",
+    "Sector": "Basic Materials",
+    "Industry": "Agricultural Inputs",
+    "MarketCap": "17.52B"
+  },
+  "FOX": {
+    "Company": "Fox Corporation",
+    "Sector": "Communication Services",
+    "Industry": "Broadcasting",
+    "MarketCap": "21.11B"
+  },
+  "FOXA": {
+    "Company": "Fox Corporation",
+    "Sector": "Communication Services",
+    "Industry": "Broadcasting",
+    "MarketCap": "21.16B"
+  },
+  "FRC": {
+    "Company": "First Republic Bank",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "29.54B"
+  },
+  "FRT": {
+    "Company": "Federal Realty Investment Trust",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Retail",
+    "MarketCap": "9.55B"
+  },
+  "FTNT": {
+    "Company": "Fortinet, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "54.60B"
+  },
+  "FTV": {
+    "Company": "Fortive Corporation",
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments",
+    "MarketCap": "21.12B"
+  },
+  "GD": {
+    "Company": "General Dynamics Corporation",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "67.82B"
+  },
+  "GE": {
+    "Company": "General Electric Company",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "99.51B"
+  },
+  "GILD": {
+    "Company": "Gilead Sciences, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "77.63B"
+  },
+  "GIS": {
+    "Company": "General Mills, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "42.52B"
+  },
+  "GL": {
+    "Company": "Globe Life Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Life",
+    "MarketCap": "10.04B"
+  },
+  "GLW": {
+    "Company": "Corning Incorporated",
+    "Sector": "Technology",
+    "Industry": "Electronic Components",
+    "MarketCap": "28.80B"
+  },
+  "GM": {
+    "Company": "General Motors Company",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers",
+    "MarketCap": "59.17B"
+  },
+  "GNRC": {
+    "Company": "Generac Holdings Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "16.97B"
+  },
+  "GOOG": {
+    "Company": "Alphabet Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information",
+    "MarketCap": "1756.81B"
+  },
+  "GOOGL": {
+    "Company": "Alphabet Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information",
+    "MarketCap": "1732.44B"
+  },
+  "GPC": {
+    "Company": "Genuine Parts Company",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "MarketCap": "18.70B"
+  },
+  "GPN": {
+    "Company": "Global Payments Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Business Services",
+    "MarketCap": "38.96B"
+  },
+  "GRMN": {
+    "Company": "Garmin Ltd.",
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments",
+    "MarketCap": "21.65B"
+  },
+  "GS": {
+    "Company": "The Goldman Sachs Group, Inc.",
+    "Sector": "Financial",
+    "Industry": "Capital Markets",
+    "MarketCap": "111.59B"
+  },
+  "GWW": {
+    "Company": "W.W. Grainger, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Industrial Distribution",
+    "MarketCap": "26.89B"
+  },
+  "HAL": {
+    "Company": "Halliburton Company",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Equipment & Services",
+    "MarketCap": "36.98B"
+  },
+  "HAS": {
+    "Company": "Hasbro, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Leisure",
+    "MarketCap": "11.41B"
+  },
+  "HBAN": {
+    "Company": "Huntington Bancshares Incorporated",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "19.65B"
+  },
+  "HCA": {
+    "Company": "HCA Healthcare, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Care Facilities",
+    "MarketCap": "77.81B"
+  },
+  "HD": {
+    "Company": "The Home Depot, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Home Improvement Retail",
+    "MarketCap": "316.24B"
+  },
+  "HES": {
+    "Company": "Hess Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "35.81B"
+  },
+  "HIG": {
+    "Company": "The Hartford Financial Services Group, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Diversified",
+    "MarketCap": "24.95B"
+  },
+  "HII": {
+    "Company": "Huntington Ingalls Industries, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "8.54B"
+  },
+  "HLT": {
+    "Company": "Hilton Worldwide Holdings Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Lodging",
+    "MarketCap": "43.25B"
+  },
+  "HOLX": {
+    "Company": "Hologic, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "18.93B"
+  },
+  "HON": {
+    "Company": "Honeywell International Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "131.43B"
+  },
+  "HPE": {
+    "Company": "Hewlett Packard Enterprise Company",
+    "Sector": "Technology",
+    "Industry": "Communication Equipment",
+    "MarketCap": "20.56B"
+  },
+  "HPQ": {
+    "Company": "HP Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "MarketCap": "40.99B"
+  },
+  "HRL": {
+    "Company": "Hormel Foods Corporation",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "28.92B"
+  },
+  "HSIC": {
+    "Company": "Henry Schein, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Distribution",
+    "MarketCap": "12.52B"
+  },
+  "HST": {
+    "Company": "Host Hotels & Resorts, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Hotel & Motel",
+    "MarketCap": "13.97B"
+  },
+  "HSY": {
+    "Company": "The Hershey Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Confectioners",
+    "MarketCap": "46.04B"
+  },
+  "HUM": {
+    "Company": "Humana Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "MarketCap": "57.31B"
+  },
+  "HWM": {
+    "Company": "Howmet Aerospace Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "14.72B"
+  },
+  "IBM": {
+    "Company": "International Business Machines Corporation",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "113.09B"
+  },
+  "ICE": {
+    "Company": "Intercontinental Exchange, Inc.",
+    "Sector": "Financial",
+    "Industry": "Financial Data & Stock Exchanges",
+    "MarketCap": "69.44B"
+  },
+  "IDXX": {
+    "Company": "IDEXX Laboratories, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "41.97B"
+  },
+  "IEX": {
+    "Company": "IDEX Corporation",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "14.73B"
+  },
+  "IFF": {
+    "Company": "International Flavors & Fragrances Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "MarketCap": "31.81B"
+  },
+  "ILMN": {
+    "Company": "Illumina, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "53.80B"
+  },
+  "INCY": {
+    "Company": "Incyte Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "MarketCap": "17.83B"
+  },
+  "INTC": {
+    "Company": "Intel Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "196.29B"
+  },
+  "INTU": {
+    "Company": "Intuit Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "134.16B"
+  },
+  "IP": {
+    "Company": "International Paper Company",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "MarketCap": "17.65B"
+  },
+  "IPG": {
+    "Company": "The Interpublic Group of Companies, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Advertising Agencies",
+    "MarketCap": "13.52B"
+  },
+  "IPGP": {
+    "Company": "IPG Photonics Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials",
+    "MarketCap": "5.29B"
+  },
+  "IQV": {
+    "Company": "IQVIA Holdings Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "44.80B"
+  },
+  "IR": {
+    "Company": "Ingersoll Rand Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "19.38B"
+  },
+  "IRM": {
+    "Company": "Iron Mountain Incorporated",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "MarketCap": "16.44B"
+  },
+  "ISRG": {
+    "Company": "Intuitive Surgical, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "101.22B"
+  },
+  "IT": {
+    "Company": "Gartner, Inc.",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "24.38B"
+  },
+  "ITW": {
+    "Company": "Illinois Tool Works Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "62.29B"
+  },
+  "IVZ": {
+    "Company": "Invesco Ltd.",
+    "Sector": "Financial",
+    "Industry": "Asset Management",
+    "MarketCap": "9.83B"
+  },
+  "J": {
+    "Company": "Jacobs Engineering Group Inc.",
+    "Sector": "Industrials",
+    "Industry": "Engineering & Construction",
+    "MarketCap": "18.47B"
+  },
+  "JBHT": {
+    "Company": "J.B. Hunt Transport Services, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "MarketCap": "17.97B"
+  },
+  "JCI": {
+    "Company": "Johnson Controls International plc",
+    "Sector": "Industrials",
+    "Industry": "Engineering & Construction",
+    "MarketCap": "44.27B"
+  },
+  "JD": {
+    "Company": "JD.com, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Internet Retail",
+    "MarketCap": "92.49B"
+  },
+  "JKHY": {
+    "Company": "Jack Henry & Associates, Inc.",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "14.57B"
+  },
+  "JNJ": {
+    "Company": "Johnson & Johnson",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "469.15B"
+  },
+  "JNPR": {
+    "Company": "Juniper Networks, Inc.",
+    "Sector": "Technology",
+    "Industry": "Communication Equipment",
+    "MarketCap": "11.35B"
+  },
+  "JPM": {
+    "Company": "JPMorgan Chase & Co.",
+    "Sector": "Financial",
+    "Industry": "Banks - Diversified",
+    "MarketCap": "381.18B"
+  },
+  "K": {
+    "Company": "Kellogg Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "23.03B"
+  },
+  "KDP": {
+    "Company": "Keurig Dr Pepper Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Non-Alcoholic",
+    "MarketCap": "52.75B"
+  },
+  "KEY": {
+    "Company": "KeyCorp",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "19.20B"
+  },
+  "KEYS": {
+    "Company": "Keysight Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments",
+    "MarketCap": "27.05B"
+  },
+  "KHC": {
+    "Company": "The Kraft Heinz Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "51.29B"
+  },
+  "KIM": {
+    "Company": "Kimco Realty Corporation",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Retail",
+    "MarketCap": "15.47B"
+  },
+  "KLAC": {
+    "Company": "KLA Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials",
+    "MarketCap": "51.73B"
+  },
+  "KMB": {
+    "Company": "Kimberly-Clark Corporation",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "MarketCap": "42.09B"
+  },
+  "KMI": {
+    "Company": "Kinder Morgan, Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Midstream",
+    "MarketCap": "44.15B"
+  },
+  "KMX": {
+    "Company": "CarMax, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto & Truck Dealerships",
+    "MarketCap": "14.87B"
+  },
+  "KO": {
+    "Company": "The Coca-Cola Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Non-Alcoholic",
+    "MarketCap": "278.10B"
+  },
+  "KR": {
+    "Company": "The Kroger Co.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Grocery Stores",
+    "MarketCap": "41.84B"
+  },
+  "L": {
+    "Company": "Loews Corporation",
+    "Sector": "Financial",
+    "Industry": "Insurance - Property & Casualty",
+    "MarketCap": "16.04B"
+  },
+  "LDOS": {
+    "Company": "Leidos Holdings, Inc.",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "MarketCap": "14.85B"
+  },
+  "LEN": {
+    "Company": "Lennar Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Residential Construction",
+    "MarketCap": "22.40B"
+  },
+  "LH": {
+    "Company": "Laboratory Corporation of America Holdings",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "24.88B"
+  },
+  "LHX": {
+    "Company": "L3Harris Technologies, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "49.53B"
+  },
+  "LIN": {
+    "Company": "Linde plc",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "MarketCap": "161.60B"
+  },
+  "LKQ": {
+    "Company": "LKQ Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Parts",
+    "MarketCap": "13.52B"
+  },
+  "LLY": {
+    "Company": "Eli Lilly and Company",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "285.34B"
+  },
+  "LMT": {
+    "Company": "Lockheed Martin Corporation",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "125.00B"
+  },
+  "LNC": {
+    "Company": "Lincoln National Corporation",
+    "Sector": "Financial",
+    "Industry": "Insurance - Life",
+    "MarketCap": "11.19B"
+  },
+  "LNT": {
+    "Company": "Alliant Energy Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "15.78B"
+  },
+  "LOW": {
+    "Company": "Lowe's Companies, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Home Improvement Retail",
+    "MarketCap": "134.09B"
+  },
+  "LRCX": {
+    "Company": "Lam Research Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials",
+    "MarketCap": "68.01B"
+  },
+  "LULU": {
+    "Company": "Lululemon Athletica Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Retail",
+    "MarketCap": "48.07B"
+  },
+  "LUMN": {
+    "Company": "Lumen Technologies, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "MarketCap": "11.80B"
+  },
+  "LUV": {
+    "Company": "Southwest Airlines Co.",
+    "Sector": "Industrials",
+    "Industry": "Airlines",
+    "MarketCap": "27.01B"
+  },
+  "LVS": {
+    "Company": "Las Vegas Sands Corp.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Resorts & Casinos",
+    "MarketCap": "27.46B"
+  },
+  "LW": {
+    "Company": "Lamb Weston Holdings, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "9.51B"
+  },
+  "LYB": {
+    "Company": "LyondellBasell Industries N.V.",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "MarketCap": "35.14B"
+  },
+  "LYV": {
+    "Company": "Live Nation Entertainment, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "MarketCap": "24.90B"
+  },
+  "MA": {
+    "Company": "Mastercard Incorporated",
+    "Sector": "Financial",
+    "Industry": "Credit Services",
+    "MarketCap": "346.15B"
+  },
+  "MAA": {
+    "Company": "Mid-America Apartment Communities, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "MarketCap": "23.52B"
+  },
+  "MAR": {
+    "Company": "Marriott International, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Lodging",
+    "MarketCap": "58.29B"
+  },
+  "MAS": {
+    "Company": "Masco Corporation",
+    "Sector": "Industrials",
+    "Industry": "Building Products & Equipment",
+    "MarketCap": "11.88B"
+  },
+  "MCD": {
+    "Company": "McDonald's Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "MarketCap": "186.29B"
+  },
+  "MCHP": {
+    "Company": "Microchip Technology Incorporated",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "38.27B"
+  },
+  "MCK": {
+    "Company": "McKesson Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Medical Distribution",
+    "MarketCap": "49.29B"
+  },
+  "MCO": {
+    "Company": "Moody's Corporation",
+    "Sector": "Financial",
+    "Industry": "Financial Data & Stock Exchanges",
+    "MarketCap": "61.82B"
+  },
+  "MDLZ": {
+    "Company": "Mondelez International, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Confectioners",
+    "MarketCap": "88.10B"
+  },
+  "MDT": {
+    "Company": "Medtronic plc",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "146.91B"
+  },
+  "MELI": {
+    "Company": "MercadoLibre, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Internet Retail",
+    "MarketCap": "57.78B"
+  },
+  "MET": {
+    "Company": "MetLife, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Life",
+    "MarketCap": "58.61B"
+  },
+  "MGM": {
+    "Company": "MGM Resorts International",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Resorts & Casinos",
+    "MarketCap": "17.78B"
+  },
+  "MHK": {
+    "Company": "Mohawk Industries, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Furnishings, Fixtures & Appliances",
+    "MarketCap": "7.76B"
+  },
+  "MKC": {
+    "Company": "McCormick & Company, Incorporated",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "26.99B"
+  },
+  "MKTX": {
+    "Company": "MarketAxess Holdings Inc.",
+    "Sector": "Financial",
+    "Industry": "Capital Markets",
+    "MarketCap": "9.95B"
+  },
+  "MLM": {
+    "Company": "Martin Marietta Materials, Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Building Materials",
+    "MarketCap": "22.75B"
+  },
+  "MMC": {
+    "Company": "Marsh & McLennan Companies, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance Brokers",
+    "MarketCap": "85.75B"
+  },
+  "MMM": {
+    "Company": "3M Company",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "83.92B"
+  },
+  "MNST": {
+    "Company": "Monster Beverage Corporation",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Non-Alcoholic",
+    "MarketCap": "44.39B"
+  },
+  "MO": {
+    "Company": "Altria Group, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Tobacco",
+    "MarketCap": "98.65B"
+  },
+  "MOH": {
+    "Company": "Molina Healthcare, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "MarketCap": "19.42B"
+  },
+  "MOS": {
+    "Company": "The Mosaic Company",
+    "Sector": "Basic Materials",
+    "Industry": "Agricultural Inputs",
+    "MarketCap": "27.92B"
+  },
+  "MPC": {
+    "Company": "Marathon Petroleum Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Refining & Marketing",
+    "MarketCap": "50.56B"
+  },
+  "MPWR": {
+    "Company": "Monolithic Power Systems, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "20.35B"
+  },
+  "MRK": {
+    "Company": "Merck & Co., Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "215.66B"
+  },
+  "MRNA": {
+    "Company": "Moderna, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "MarketCap": "63.94B"
+  },
+  "MRO": {
+    "Company": "Marathon Oil Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "19.29B"
+  },
+  "MRVL": {
+    "Company": "Marvell Technology, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "54.33B"
+  },
+  "MS": {
+    "Company": "Morgan Stanley",
+    "Sector": "Financial",
+    "Industry": "Capital Markets",
+    "MarketCap": "150.74B"
+  },
+  "MSCI": {
+    "Company": "MSCI Inc.",
+    "Sector": "Financial",
+    "Industry": "Financial Data & Stock Exchanges",
+    "MarketCap": "39.70B"
+  },
+  "MSFT": {
+    "Company": "Microsoft Corporation",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "2161.57B"
+  },
+  "MSI": {
+    "Company": "Motorola Solutions, Inc.",
+    "Sector": "Technology",
+    "Industry": "Communication Equipment",
+    "MarketCap": "39.01B"
+  },
+  "MTB": {
+    "Company": "M&T Bank Corporation",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "28.67B"
+  },
+  "MTCH": {
+    "Company": "Match Group, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information",
+    "MarketCap": "26.98B"
+  },
+  "MTD": {
+    "Company": "Mettler-Toledo International Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "30.20B"
+  },
+  "MU": {
+    "Company": "Micron Technology, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "82.00B"
+  },
+  "NCLH": {
+    "Company": "Norwegian Cruise Line Holdings Ltd.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "MarketCap": "8.77B"
+  },
+  "NDAQ": {
+    "Company": "Nasdaq, Inc.",
+    "Sector": "Financial",
+    "Industry": "Financial Data & Stock Exchanges",
+    "MarketCap": "29.79B"
+  },
+  "NDSN": {
+    "Company": "Nordson Corporation",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "12.80B"
+  },
+  "NEE": {
+    "Company": "NextEra Energy, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "161.95B"
+  },
+  "NEM": {
+    "Company": "Newmont Corporation",
+    "Sector": "Basic Materials",
+    "Industry": "Gold",
+    "MarketCap": "67.32B"
+  },
+  "NFLX": {
+    "Company": "Netflix, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "MarketCap": "154.09B"
+  },
+  "NI": {
+    "Company": "NiSource Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Gas",
+    "MarketCap": "12.84B"
+  },
+  "NKE": {
+    "Company": "NIKE, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Footwear & Accessories",
+    "MarketCap": "197.89B"
+  },
+  "NLOK": {
+    "Company": "NortonLifeLock Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "15.59B"
+  },
+  "NLSN": {
+    "Company": "Nielsen Holdings plc",
+    "Sector": "Industrials",
+    "Industry": "Consulting Services",
+    "MarketCap": "9.82B"
+  },
+  "NOC": {
+    "Company": "Northrop Grumman Corporation",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "72.08B"
+  },
+  "NOW": {
+    "Company": "ServiceNow, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "103.18B"
+  },
+  "NRG": {
+    "Company": "NRG Energy, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Independent Power Producers",
+    "MarketCap": "9.54B"
+  },
+  "NSC": {
+    "Company": "Norfolk Southern Corporation",
+    "Sector": "Industrials",
+    "Industry": "Railroads",
+    "MarketCap": "67.53B"
+  },
+  "NTAP": {
+    "Company": "NetApp, Inc.",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "MarketCap": "17.35B"
+  },
+  "NTES": {
+    "Company": "NetEase, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information",
+    "MarketCap": "63.14B"
+  },
+  "NTRS": {
+    "Company": "Northern Trust Corporation",
+    "Sector": "Financial",
+    "Industry": "Asset Management",
+    "MarketCap": "23.56B"
+  },
+  "NUE": {
+    "Company": "Nucor Corporation",
+    "Sector": "Basic Materials",
+    "Industry": "Steel",
+    "MarketCap": "45.20B"
+  },
+  "NVDA": {
+    "Company": "NVIDIA Corporation",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "571.06B"
+  },
+  "NVR": {
+    "Company": "NVR, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Residential Construction",
+    "MarketCap": "14.82B"
+  },
+  "NWL": {
+    "Company": "Newell Brands Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "MarketCap": "9.38B"
+  },
+  "NWS": {
+    "Company": "News Corporation",
+    "Sector": "Communication Services",
+    "Industry": "Broadcasting",
+    "MarketCap": "12.63B"
+  },
+  "NWSA": {
+    "Company": "News Corporation",
+    "Sector": "Communication Services",
+    "Industry": "Broadcasting",
+    "MarketCap": "12.84B"
+  },
+  "NXPI": {
+    "Company": "NXP Semiconductors N.V.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "45.76B"
+  },
+  "O": {
+    "Company": "Realty Income Corporation",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Retail",
+    "MarketCap": "43.54B"
+  },
+  "ODFL": {
+    "Company": "Old Dominion Freight Line, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Trucking",
+    "MarketCap": "30.70B"
+  },
+  "OKE": {
+    "Company": "ONEOK, Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Midstream",
+    "MarketCap": "32.38B"
+  },
+  "OKTA": {
+    "Company": "Okta, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "22.91B"
+  },
+  "OMC": {
+    "Company": "Omnicom Group Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Advertising Agencies",
+    "MarketCap": "16.15B"
+  },
+  "ORCL": {
+    "Company": "Oracle Corporation",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "209.49B"
+  },
+  "ORLY": {
+    "Company": "O'Reilly Automotive, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "MarketCap": "48.53B"
+  },
+  "OXY": {
+    "Company": "Occidental Petroleum Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "57.77B"
+  },
+  "PANW": {
+    "Company": "Palo Alto Networks, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "61.06B"
+  },
+  "PARA": {
+    "Company": "Paramount Global",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "MarketCap": "23.33B"
+  },
+  "PAYC": {
+    "Company": "Paycom Software, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "18.90B"
+  },
+  "PAYX": {
+    "Company": "Paychex, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Staffing & Employment Services",
+    "MarketCap": "49.44B"
+  },
+  "PCAR": {
+    "Company": "PACCAR Inc",
+    "Sector": "Industrials",
+    "Industry": "Farm & Heavy Construction Machinery",
+    "MarketCap": "28.99B"
+  },
+  "PDD": {
+    "Company": "Pinduoduo Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Internet Retail",
+    "MarketCap": "55.00B"
+  },
+  "PEAK": {
+    "Company": "Healthpeak Properties, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Healthcare Facilities",
+    "MarketCap": "18.76B"
+  },
+  "PEG": {
+    "Company": "Public Service Enterprise Group Incorporated",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "MarketCap": "35.74B"
+  },
+  "PENN": {
+    "Company": "Penn National Gaming, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Resorts & Casinos",
+    "MarketCap": "6.31B"
+  },
+  "PEP": {
+    "Company": "PepsiCo, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Non-Alcoholic",
+    "MarketCap": "237.24B"
+  },
+  "PFE": {
+    "Company": "Pfizer Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "MarketCap": "292.67B"
+  },
+  "PFG": {
+    "Company": "Principal Financial Group, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Diversified",
+    "MarketCap": "18.66B"
+  },
+  "PG": {
+    "Company": "The Procter & Gamble Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "MarketCap": "378.60B"
+  },
+  "PGR": {
+    "Company": "The Progressive Corporation",
+    "Sector": "Financial",
+    "Industry": "Insurance - Property & Casualty",
+    "MarketCap": "65.16B"
+  },
+  "PH": {
+    "Company": "Parker-Hannifin Corporation",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "34.82B"
+  },
+  "PHM": {
+    "Company": "PulteGroup, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Residential Construction",
+    "MarketCap": "10.27B"
+  },
+  "PKG": {
+    "Company": "Packaging Corporation of America",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "MarketCap": "14.75B"
+  },
+  "PKI": {
+    "Company": "PerkinElmer, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "20.58B"
+  },
+  "PLD": {
+    "Company": "Prologis, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Industrial",
+    "MarketCap": "122.36B"
+  },
+  "PM": {
+    "Company": "Philip Morris International Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Tobacco",
+    "MarketCap": "155.76B"
+  },
+  "PNC": {
+    "Company": "The PNC Financial Services Group, Inc.",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "75.01B"
+  },
+  "PNR": {
+    "Company": "Pentair plc",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "8.64B"
+  },
+  "PNW": {
+    "Company": "Pinnacle West Capital Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "8.69B"
+  },
+  "POOL": {
+    "Company": "Pool Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Leisure",
+    "MarketCap": "16.76B"
+  },
+  "PPG": {
+    "Company": "PPG Industries, Inc.",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "MarketCap": "30.41B"
+  },
+  "PPL": {
+    "Company": "PPL Corporation",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "21.33B"
+  },
+  "PRU": {
+    "Company": "Prudential Financial, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Life",
+    "MarketCap": "44.25B"
+  },
+  "PSA": {
+    "Company": "Public Storage",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Industrial",
+    "MarketCap": "71.33B"
+  },
+  "PSX": {
+    "Company": "Phillips 66",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Refining & Marketing",
+    "MarketCap": "42.08B"
+  },
+  "PTC": {
+    "Company": "PTC Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "11.95B"
+  },
+  "PVH": {
+    "Company": "PVH Corp.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Manufacturing",
+    "MarketCap": "5.33B"
+  },
+  "PWR": {
+    "Company": "Quanta Services, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Engineering & Construction",
+    "MarketCap": "19.40B"
+  },
+  "PXD": {
+    "Company": "Pioneer Natural Resources Company",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "MarketCap": "62.50B"
+  },
+  "PYPL": {
+    "Company": "PayPal Holdings, Inc.",
+    "Sector": "Financial",
+    "Industry": "Credit Services",
+    "MarketCap": "120.45B"
+  },
+  "QCOM": {
+    "Company": "QUALCOMM Incorporated",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "161.13B"
+  },
+  "QRVO": {
+    "Company": "Qorvo, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "12.83B"
+  },
+  "RCL": {
+    "Company": "Royal Caribbean Cruises Ltd.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "MarketCap": "20.58B"
+  },
+  "RE": {
+    "Company": "Everest Re Group, Ltd.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Reinsurance",
+    "MarketCap": "14.32B"
+  },
+  "REG": {
+    "Company": "Regency Centers Corporation",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Retail",
+    "MarketCap": "12.08B"
+  },
+  "REGN": {
+    "Company": "Regeneron Pharmaceuticals, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "MarketCap": "78.37B"
+  },
+  "RF": {
+    "Company": "Regions Financial Corporation",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "19.79B"
+  },
+  "RHI": {
+    "Company": "Robert Half International Inc.",
+    "Sector": "Industrials",
+    "Industry": "Staffing & Employment Services",
+    "MarketCap": "12.39B"
+  },
+  "RJF": {
+    "Company": "Raymond James Financial, Inc.",
+    "Sector": "Financial",
+    "Industry": "Capital Markets",
+    "MarketCap": "22.99B"
+  },
+  "RL": {
+    "Company": "Ralph Lauren Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Manufacturing",
+    "MarketCap": "7.67B"
+  },
+  "RMD": {
+    "Company": "ResMed Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "34.27B"
+  },
+  "ROK": {
+    "Company": "Rockwell Automation, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "31.01B"
+  },
+  "ROL": {
+    "Company": "Rollins, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Personal Services",
+    "MarketCap": "17.17B"
+  },
+  "ROP": {
+    "Company": "Roper Technologies, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "49.04B"
+  },
+  "ROST": {
+    "Company": "Ross Stores, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Retail",
+    "MarketCap": "36.66B"
+  },
+  "RSG": {
+    "Company": "Republic Services, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Waste Management",
+    "MarketCap": "41.92B"
+  },
+  "RTX": {
+    "Company": "Raytheon Technologies Corporation",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "154.09B"
+  },
+  "SBAC": {
+    "Company": "SBA Communications Corporation",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "MarketCap": "38.37B"
+  },
+  "SBNY": {
+    "Company": "Signature Bank",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "17.25B"
+  },
+  "SBUX": {
+    "Company": "Starbucks Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "MarketCap": "93.20B"
+  },
+  "SCHW": {
+    "Company": "The Charles Schwab Corporation",
+    "Sector": "Financial",
+    "Industry": "Capital Markets",
+    "MarketCap": "143.89B"
+  },
+  "SEDG": {
+    "Company": "SolarEdge Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Solar",
+    "MarketCap": "17.07B"
+  },
+  "SEE": {
+    "Company": "Sealed Air Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "MarketCap": "9.77B"
+  },
+  "SGEN": {
+    "Company": "Seagen Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "MarketCap": "26.11B"
+  },
+  "SHW": {
+    "Company": "The Sherwin-Williams Company",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "MarketCap": "65.53B"
+  },
+  "SIRI": {
+    "Company": "Sirius XM Holdings Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Broadcasting",
+    "MarketCap": "24.98B"
+  },
+  "SIVB": {
+    "Company": "SVB Financial Group",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "30.42B"
+  },
+  "SJM": {
+    "Company": "The J. M. Smucker Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "MarketCap": "15.00B"
+  },
+  "SLB": {
+    "Company": "Schlumberger Limited",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Equipment & Services",
+    "MarketCap": "60.76B"
+  },
+  "SNA": {
+    "Company": "Snap-on Incorporated",
+    "Sector": "Industrials",
+    "Industry": "Tools & Accessories",
+    "MarketCap": "11.53B"
+  },
+  "SNPS": {
+    "Company": "Synopsys, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "47.33B"
+  },
+  "SO": {
+    "Company": "The Southern Company",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "79.73B"
+  },
+  "SPG": {
+    "Company": "Simon Property Group, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Retail",
+    "MarketCap": "41.89B"
+  },
+  "SPGI": {
+    "Company": "S&P Global Inc.",
+    "Sector": "Financial",
+    "Industry": "Financial Data & Stock Exchanges",
+    "MarketCap": "138.58B"
+  },
+  "SPLK": {
+    "Company": "Splunk Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "22.12B"
+  },
+  "SRE": {
+    "Company": "Sempra",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "MarketCap": "53.77B"
+  },
+  "STE": {
+    "Company": "STERIS plc",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "24.71B"
+  },
+  "STT": {
+    "Company": "State Street Corporation",
+    "Sector": "Financial",
+    "Industry": "Asset Management",
+    "MarketCap": "29.87B"
+  },
+  "STX": {
+    "Company": "Seagate Technology Holdings plc",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "MarketCap": "18.61B"
+  },
+  "STZ": {
+    "Company": "Constellation Brands, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Wineries & Distilleries",
+    "MarketCap": "47.65B"
+  },
+  "SWK": {
+    "Company": "Stanley Black & Decker, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Tools & Accessories",
+    "MarketCap": "21.32B"
+  },
+  "SWKS": {
+    "Company": "Skyworks Solutions, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "20.08B"
+  },
+  "SYF": {
+    "Company": "Synchrony Financial",
+    "Sector": "Financial",
+    "Industry": "Credit Services",
+    "MarketCap": "20.14B"
+  },
+  "SYK": {
+    "Company": "Stryker Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "98.53B"
+  },
+  "SYY": {
+    "Company": "Sysco Corporation",
+    "Sector": "Consumer Defensive",
+    "Industry": "Food Distribution",
+    "MarketCap": "43.80B"
+  },
+  "T": {
+    "Company": "AT&T Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "MarketCap": "138.15B"
+  },
+  "TAP": {
+    "Company": "Molson Coors Beverage Company",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Brewers",
+    "MarketCap": "11.78B"
+  },
+  "TDG": {
+    "Company": "TransDigm Group Incorporated",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "34.99B"
+  },
+  "TDY": {
+    "Company": "Teledyne Technologies Incorporated",
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments",
+    "MarketCap": "22.71B"
+  },
+  "TEAM": {
+    "Company": "Atlassian Corporation Plc",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "69.39B"
+  },
+  "TECH": {
+    "Company": "Bio-Techne Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "MarketCap": "16.24B"
+  },
+  "TEL": {
+    "Company": "TE Connectivity Ltd.",
+    "Sector": "Technology",
+    "Industry": "Electronic Components",
+    "MarketCap": "40.80B"
+  },
+  "TER": {
+    "Company": "Teradyne, Inc.",
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials",
+    "MarketCap": "18.07B"
+  },
+  "TFC": {
+    "Company": "Truist Financial Corporation",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "69.80B"
+  },
+  "TFX": {
+    "Company": "Teleflex Incorporated",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "15.40B"
+  },
+  "TGT": {
+    "Company": "Target Corporation",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "MarketCap": "109.12B"
+  },
+  "TJX": {
+    "Company": "The TJX Companies, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Retail",
+    "MarketCap": "74.54B"
+  },
+  "TMO": {
+    "Company": "Thermo Fisher Scientific Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "227.07B"
+  },
+  "TMUS": {
+    "Company": "T-Mobile US, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "MarketCap": "165.68B"
+  },
+  "TPR": {
+    "Company": "Tapestry, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Luxury Goods",
+    "MarketCap": "9.14B"
+  },
+  "TRMB": {
+    "Company": "Trimble Inc.",
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments",
+    "MarketCap": "17.26B"
+  },
+  "TROW": {
+    "Company": "T. Rowe Price Group, Inc.",
+    "Sector": "Financial",
+    "Industry": "Asset Management",
+    "MarketCap": "32.79B"
+  },
+  "TRV": {
+    "Company": "The Travelers Companies, Inc.",
+    "Sector": "Financial",
+    "Industry": "Insurance - Property & Casualty",
+    "MarketCap": "44.32B"
+  },
+  "TSCO": {
+    "Company": "Tractor Supply Company",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "MarketCap": "25.37B"
+  },
+  "TSLA": {
+    "Company": "Tesla, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers",
+    "MarketCap": "1008.57B"
+  },
+  "TSN": {
+    "Company": "Tyson Foods, Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Farm Products",
+    "MarketCap": "34.12B"
+  },
+  "TT": {
+    "Company": "Trane Technologies plc",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "34.30B"
+  },
+  "TTWO": {
+    "Company": "Take-Two Interactive Software, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Electronic Gaming & Multimedia",
+    "MarketCap": "15.78B"
+  },
+  "TWTR": {
+    "Company": "Twitter, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information",
+    "MarketCap": "37.63B"
+  },
+  "TXN": {
+    "Company": "Texas Instruments Incorporated",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "MarketCap": "164.30B"
+  },
+  "TXT": {
+    "Company": "Textron Inc.",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "MarketCap": "14.94B"
+  },
+  "TYL": {
+    "Company": "Tyler Technologies, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "17.00B"
+  },
+  "UA": {
+    "Company": "Under Armour, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Manufacturing",
+    "MarketCap": "6.71B"
+  },
+  "UAA": {
+    "Company": "Under Armour, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Manufacturing",
+    "MarketCap": "7.41B"
+  },
+  "UAL": {
+    "Company": "United Airlines Holdings, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Airlines",
+    "MarketCap": "14.28B"
+  },
+  "UDR": {
+    "Company": "UDR, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "MarketCap": "18.63B"
+  },
+  "UHS": {
+    "Company": "Universal Health Services, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Care Facilities",
+    "MarketCap": "11.11B"
+  },
+  "ULTA": {
+    "Company": "Ulta Beauty, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "MarketCap": "21.75B"
+  },
+  "UNH": {
+    "Company": "UnitedHealth Group Incorporated",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "MarketCap": "504.56B"
+  },
+  "UNP": {
+    "Company": "Union Pacific Corporation",
+    "Sector": "Industrials",
+    "Industry": "Railroads",
+    "MarketCap": "151.17B"
+  },
+  "UPS": {
+    "Company": "United Parcel Service, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "MarketCap": "163.77B"
+  },
+  "URI": {
+    "Company": "United Rentals, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Rental & Leasing Services",
+    "MarketCap": "24.04B"
+  },
+  "USB": {
+    "Company": "U.S. Bancorp",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "75.20B"
+  },
+  "V": {
+    "Company": "Visa Inc.",
+    "Sector": "Financial",
+    "Industry": "Credit Services",
+    "MarketCap": "447.99B"
+  },
+  "VFC": {
+    "Company": "V.F. Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Manufacturing",
+    "MarketCap": "21.56B"
+  },
+  "VLO": {
+    "Company": "Valero Energy Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Refining & Marketing",
+    "MarketCap": "44.78B"
+  },
+  "VMC": {
+    "Company": "Vulcan Materials Company",
+    "Sector": "Basic Materials",
+    "Industry": "Building Materials",
+    "MarketCap": "23.35B"
+  },
+  "VNO": {
+    "Company": "Vornado Realty Trust",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Office",
+    "MarketCap": "7.97B"
+  },
+  "VRSK": {
+    "Company": "Verisk Analytics, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Consulting Services",
+    "MarketCap": "34.19B"
+  },
+  "VRSN": {
+    "Company": "VeriSign, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "23.40B"
+  },
+  "VRTX": {
+    "Company": "Vertex Pharmaceuticals Incorporated",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "MarketCap": "73.06B"
+  },
+  "VTR": {
+    "Company": "Ventas, Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Healthcare Facilities",
+    "MarketCap": "24.33B"
+  },
+  "VZ": {
+    "Company": "Verizon Communications Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "MarketCap": "225.53B"
+  },
+  "WAB": {
+    "Company": "Westinghouse Air Brake Technologies Corporation",
+    "Sector": "Industrials",
+    "Industry": "Railroads",
+    "MarketCap": "16.46B"
+  },
+  "WAT": {
+    "Company": "Waters Corporation",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "MarketCap": "17.89B"
+  },
+  "WBA": {
+    "Company": "Walgreens Boots Alliance, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Pharmaceutical Retailers",
+    "MarketCap": "38.26B"
+  },
+  "WDAY": {
+    "Company": "Workday, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "MarketCap": "56.07B"
+  },
+  "WDC": {
+    "Company": "Western Digital Corporation",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "MarketCap": "15.28B"
+  },
+  "WEC": {
+    "Company": "WEC Energy Group, Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "32.44B"
+  },
+  "WELL": {
+    "Company": "Welltower Inc.",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Healthcare Facilities",
+    "MarketCap": "44.20B"
+  },
+  "WFC": {
+    "Company": "Wells Fargo & Company",
+    "Sector": "Financial",
+    "Industry": "Banks - Diversified",
+    "MarketCap": "187.79B"
+  },
+  "WHR": {
+    "Company": "Whirlpool Corporation",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Furnishings, Fixtures & Appliances",
+    "MarketCap": "10.37B"
+  },
+  "WM": {
+    "Company": "Waste Management, Inc.",
+    "Sector": "Industrials",
+    "Industry": "Waste Management",
+    "MarketCap": "65.84B"
+  },
+  "WMB": {
+    "Company": "The Williams Companies, Inc.",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Midstream",
+    "MarketCap": "42.41B"
+  },
+  "WMT": {
+    "Company": "Walmart Inc.",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "MarketCap": "429.33B"
+  },
+  "WRB": {
+    "Company": "W. R. Berkley Corporation",
+    "Sector": "Financial",
+    "Industry": "Insurance - Property & Casualty",
+    "MarketCap": "18.44B"
+  },
+  "WRK": {
+    "Company": "WestRock Company",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "MarketCap": "13.12B"
+  },
+  "WST": {
+    "Company": "West Pharmaceutical Services, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "28.08B"
+  },
+  "WTW": {
+    "Company": "Willis Towers Watson Public Limited Company",
+    "Sector": "Financial",
+    "Industry": "Insurance Brokers",
+    "MarketCap": "27.43B"
+  },
+  "WY": {
+    "Company": "Weyerhaeuser Company",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "MarketCap": "29.87B"
+  },
+  "WYNN": {
+    "Company": "Wynn Resorts, Limited",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Resorts & Casinos",
+    "MarketCap": "8.47B"
+  },
+  "XEL": {
+    "Company": "Xcel Energy Inc.",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "MarketCap": "40.42B"
+  },
+  "XOM": {
+    "Company": "Exxon Mobil Corporation",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Integrated",
+    "MarketCap": "369.84B"
+  },
+  "XRAY": {
+    "Company": "DENTSPLY SIRONA Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "MarketCap": "10.53B"
+  },
+  "XYL": {
+    "Company": "Xylem Inc.",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "MarketCap": "15.31B"
+  },
+  "YUM": {
+    "Company": "Yum! Brands, Inc.",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "MarketCap": "35.18B"
+  },
+  "ZBH": {
+    "Company": "Zimmer Biomet Holdings, Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "MarketCap": "26.62B"
+  },
+  "ZBRA": {
+    "Company": "Zebra Technologies Corporation",
+    "Sector": "Technology",
+    "Industry": "Communication Equipment",
+    "MarketCap": "21.42B"
+  },
+  "ZION": {
+    "Company": "Zions Bancorporation, National Association",
+    "Sector": "Financial",
+    "Industry": "Banks - Regional",
+    "MarketCap": "9.84B"
+  },
+  "ZM": {
+    "Company": "Zoom Video Communications, Inc.",
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "MarketCap": "32.94B"
+  },
+  "ZS": {
+    "Company": "Zscaler, Inc.",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "MarketCap": "32.96B"
+  },
+  "ZTS": {
+    "Company": "Zoetis Inc.",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - Specialty & Generic",
+    "MarketCap": "87.17B"
+  }
+}
